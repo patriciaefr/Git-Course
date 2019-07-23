@@ -1,4 +1,5 @@
 # Github
 
 Arquivo da aula de Git e Github
-Este é um repositório para mostar como o gt funciona
+
+Este é um repositório para mostar como o git funciona
